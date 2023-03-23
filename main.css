@@ -188,6 +188,7 @@
 
     #product-overview h1 {
         font-size: 3rem;
+        /* delete, test iterm2 commit */
     }
 
     .plan__list {
